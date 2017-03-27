@@ -4,14 +4,15 @@ max-width: 960px;
  }
 
 h1 { 
-background-color: #4ABDAC;
+
 font-family: Verdana;
-font-size: 5em;
+font-size: 4em;
+color: white;
 width:100%;
 padding-top: 10px;
 padding-left: 200px;
 margin: auto;
-margin-bottom: 20px;
+margin-bottom: 350px;
 
  }
 
@@ -47,10 +48,12 @@ height: 500px;
 }
 
 #title-pic {
-	display:block;
-	width:100%;
-	margin-left: 150px;
-	margin-right: 200px;
+	position:absolute;
+	width:70%%;
+	margin:auto;
+	left:0px;
+	top:10px;
+	z-index:-1;
 	border: 2px solid grey;
 
 }
