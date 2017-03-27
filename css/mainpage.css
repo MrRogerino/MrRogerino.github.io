@@ -54,3 +54,19 @@ height: 500px;
 	border: 2px solid grey;
 
 }
+
+a:hover {
+	color: red;
+}
+
+.highlights {
+	background-color: #4ABDAC ;
+	font-family: Tahoma;
+	font-size: 1em;
+	display:block;
+	width: 60%;
+	margin:auto;
+	margin-top:30px;
+	padding: 20px 10px;
+	bottom-border: 2px solid grey;
+}
