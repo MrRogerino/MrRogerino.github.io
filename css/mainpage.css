@@ -9,7 +9,7 @@ font-family: Verdana;
 font-size: 5em;
 width:100%;
 padding-top: 10px;
-padding-left: 300px;
+padding-left: 200px;
 margin: auto;
 margin-bottom: 20px;
 
@@ -39,3 +39,18 @@ font-family: Tahoma;
 table { 
 background-color: #DFDCE3;
  }
+
+img {
+display:block;
+margin:auto;
+height: 500px;
+}
+
+#title-pic {
+	display:block;
+	width:100%;
+	margin-left: 150px;
+	margin-right: 200px;
+	border: 2px solid grey;
+
+}
