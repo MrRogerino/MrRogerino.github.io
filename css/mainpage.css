@@ -1,3 +1,23 @@
-* {
-	background-color:blue;
-}
+body { 
+background-color: #6E6376;
+ }
+
+h1 { 
+background-color: #4ABDAC;
+ }
+
+h2 { 
+background-color: #EEB6B7;
+ }
+
+h4 { 
+background-color: #99CED4;
+ }
+
+p { 
+background-color: #DFDCE3;
+ }
+
+table { 
+	background-color: #DFDCE3;
+ }
