@@ -49,7 +49,7 @@ height: 500px;
 
 #title-pic {
 	position:absolute;
-	width:70%%;
+	width:70%;
 	margin:auto;
 	left:0px;
 	top:10px;
@@ -71,5 +71,13 @@ a:hover {
 	margin:auto;
 	margin-top:30px;
 	padding: 20px 10px;
-	bottom-border: 2px solid grey;
+	border-bottom: 2px solid grey;
+}
+
+@media screen and (max-width: 500px) {
+	#title-pic {
+		display:block;
+		margin:auto;
+		height: 500px;
+	}
 }
