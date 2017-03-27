@@ -1,5 +1,6 @@
 body { 
 background-color: #6E6376;
+max-width: 960px;
  }
 
 h1 { 
@@ -12,12 +13,17 @@ background-color: #EEB6B7;
 
 h4 { 
 background-color: #99CED4;
+font-family: Georgia;
  }
 
 p { 
 background-color: #DFDCE3;
+width: 60%;
+margin:auto;
+padding: 10px;
+font-family: Tahoma;	
  }
 
 table { 
-	background-color: #DFDCE3;
+background-color: #DFDCE3;
  }
