@@ -5,21 +5,33 @@ max-width: 960px;
 
 h1 { 
 background-color: #4ABDAC;
+font-family: Verdana;
+font-size: 5em;
+width:100%;
+padding-top: 10px;
+padding-left: 300px;
+margin: auto;
+margin-bottom: 20px;
+
  }
 
-h2 { 
-background-color: #EEB6B7;
- }
-
-h4 { 
+.headers { 
 background-color: #99CED4;
-font-family: Georgia;
+font-family:Georgia;
+width: 40%;
+font-size:3em;
+border: 2px black;
+padding-top:20px;
+padding-left:200px;
+margin: 30px 0px 30px -20px;
+border-bottom: .5em solid grey;
  }
 
 p { 
 background-color: #DFDCE3;
 width: 60%;
 margin:auto;
+margin-top:20px;
 padding: 10px;
 font-family: Tahoma;	
  }
